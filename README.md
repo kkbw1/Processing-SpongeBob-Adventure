@@ -2,5 +2,5 @@
 
 Development IDE: Processing 3  
 
-![Main Image](Main.png)
-![Play Image](play.png)
+![Main Image](Main.PNG)
+![Play Image](play.PNG)
