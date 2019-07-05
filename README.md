@@ -4,5 +4,5 @@ Development IDE: Processing 3
 
 Main UI:  
 ![Main Image](Main.PNG)  
-Playing UI:  
+  Playing UI:  
 ![Play Image](play.PNG)
